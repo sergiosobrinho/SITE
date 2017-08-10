@@ -1,0 +1,21 @@
+{
+  "name": "HTML",
+  "homepage": "https://github.com/sergiosobrinho/site",
+  "authors": [
+    "sergio sobrinho <sergio.sobrinho@live.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
